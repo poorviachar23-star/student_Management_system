@@ -1,2 +1,2 @@
-# student_Management_system
+# student_Management_system1
 A web-based Student Management System built using React and Vite. It allows users to add, view, edit, and delete student records, with data stored in the browser using localStorage...
